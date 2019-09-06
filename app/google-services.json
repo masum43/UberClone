@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1010160961919-lp0nffpcajtp6sdrqfp05di3h8rh8u51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uberclone",
+            "certificate_hash": "afe8b6341738d76480c5e8504ab882ead452cfd3"
+          }
+        },
+        {
           "client_id": "1010160961919-gairf9tg49ngjhgui0461hmblg6vilau.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
